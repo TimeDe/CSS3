@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370506ed-3052-4b0b-a339-e7178d1e39fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS3响应式布局/响应式布局media媒体查询.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS3新的UI设计方案/风车.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS3响应式布局/响应式布局media媒体查询.html" afterPath="$PROJECT_DIR$/CSS3响应式布局/响应式布局media媒体查询.html" />
     </list>
     <ignored path="CSS3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +40,7 @@
       <file leaf-file-name="CSS3实现的水平垂直居中.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS3的弹性盒模型/CSS3实现的水平垂直居中.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
+            <state relative-caret-position="57">
               <caret line="7" column="44" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="44" />
               <folding />
             </state>
@@ -49,7 +50,7 @@
       <file leaf-file-name="box-shadow.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/盒模型新增属性/box-shadow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="156">
               <caret line="6" column="122" selection-start-line="6" selection-start-column="122" selection-end-line="6" selection-end-column="122" />
               <folding />
             </state>
@@ -59,7 +60,7 @@
       <file leaf-file-name="拖拽.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/盒模型新增属性/拖拽.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="156">
               <caret line="6" column="101" selection-start-line="6" selection-start-column="101" selection-end-line="6" selection-end-column="101" />
               <folding />
             </state>
@@ -69,7 +70,7 @@
       <file leaf-file-name="分栏布局.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS3响应式布局/分栏布局.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="442">
               <caret line="83" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="7" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -78,14 +79,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="响应式布局media媒体查询.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="响应式布局media媒体查询.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS3响应式布局/响应式布局media媒体查询.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="208">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="风车.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS3新的UI设计方案/风车.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,6 +122,7 @@
         <option value="$PROJECT_DIR$/盒模型新增属性/拖拽.html" />
         <option value="$PROJECT_DIR$/CSS3响应式布局/分栏布局.html" />
         <option value="$PROJECT_DIR$/CSS3响应式布局/响应式布局media媒体查询.html" />
+        <option value="$PROJECT_DIR$/CSS3新的UI设计方案/风车.html" />
       </list>
     </option>
   </component>
@@ -179,7 +191,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CSS3响应式布局" />
+              <option name="myItemId" value="CSS3新的UI设计方案" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490350769010</updated>
-      <workItem from="1490350783162" duration="5494000" />
+      <workItem from="1490350783162" duration="6786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5494000" />
+    <option name="totallyTimeSpent" value="6786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -260,7 +272,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS3的弹性盒模型/CSS3实现的水平垂直居中.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
+        <state relative-caret-position="57">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="44" />
           <folding />
         </state>
@@ -268,7 +280,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/盒模型新增属性/box-shadow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="156">
           <caret line="6" column="122" selection-start-line="6" selection-start-column="122" selection-end-line="6" selection-end-column="122" />
           <folding />
         </state>
@@ -276,7 +288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/盒模型新增属性/拖拽.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="156">
           <caret line="6" column="101" selection-start-line="6" selection-start-column="101" selection-end-line="6" selection-end-column="101" />
           <folding />
         </state>
@@ -284,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS3响应式布局/分栏布局.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="442">
           <caret line="83" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="7" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -294,11 +306,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS3响应式布局/响应式布局media媒体查询.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="208">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS3新的UI设计方案/风车.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
